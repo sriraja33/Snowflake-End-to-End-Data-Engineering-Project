@@ -18,11 +18,17 @@ All transformations and data modeling are performed within Snowflake, leveraging
 
 ## Dataset Used
 
-https://github.com/sriraja33/Snowflake-End-to-End-Data-Engineering-Project/blob/main/hotel_bookings_raw.csv
+[Dataset](https://github.com/sriraja33/Snowflake-End-to-End-Data-Engineering-Project/blob/main/hotel_bookings_raw.csv)
 
 
 ## Scripts for the Project
 
-1) [Bronze Layer - Ingestion](https://github.com/sriraja33/Azure-Data-Engineering-Project/blob/main/git_import_bronze%20layer.json)
-2) [Silver Layer - Transform](https://github.com/sriraja33/Azure-Data-Engineering-Project/blob/main/Silver%20Layer.ipynb)
-3) [Gold Layer - Analytics Storage](https://github.com/sriraja33/Azure-Data-Engineering-Project/blob/main/Create%20Views%20Gold.sql
+1) [Bronze Layer - Ingestion](https://github.com/sriraja33/Snowflake-End-to-End-Data-Engineering-Project/blob/main/Bronze%20Layer%20SQL.txt)
+2) [Silver Layer - Transform](https://github.com/sriraja33/Snowflake-End-to-End-Data-Engineering-Project/blob/main/Silver%20Layer%20SQL.txt)
+3) [Gold Layer - Analytics Storage](https://github.com/sriraja33/Snowflake-End-to-End-Data-Engineering-Project/blob/main/Gold%20Layer%20SQL.txt)
+
+
+
+## Sample Dashboard (Snowsight)
+
+![Dashboard.jpg](https://github.com/sriraja33/Snowflake-End-to-End-Data-Engineering-Project/blob/main/Sample_Dashboard.jpg)
